@@ -194,5 +194,3 @@ if st.session_state.is_ended:
 
 
 st.divider()
-
-st.write("นางสาวดีใจ ยิ้มแย้ม เลขที่ 5 ม.4/5")
